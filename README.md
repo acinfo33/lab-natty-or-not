@@ -21,7 +21,7 @@ Hoje você irá aprender como se tornar um desenvolvedor web Javascript, explora
     4. E não se preocupe em errar, é assim que aprendemos!
   
 VIDEO DAS DICAS!
-[CLIQUE AQUI <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉</font></font> (Como se tornar um desenvolvedor web Javascript)](/exemplos/VIDEO.md)
+[CLIQUE AQUI <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉</font></font> (Como se tornar um desenvolvedor web Javascript)](https://github.com/acinfo33/lab-natty-or-not/blob/main/desenvolvedor-web-javascript%20(1).mp4)
 
 ## Exemplos de Códigos projetados em JAVASCRIPT
 
