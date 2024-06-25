@@ -1,0 +1,35 @@
+body {
+            font-family: Arial, sans-serif;
+            color: rgb(24, 115, 129);
+            
+        }
+        .todo-container {
+            max-width: 300px;
+            min-height: 400px;
+            margin: 0 auto;
+            text-align: center;
+            background-color: rgb(159, 232, 243);
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 10px;
+            border-bottom: 1px solid #50d6df;
+        }
+
+        input {
+            background-color: rgb(196, 248, 251);
+        }
+
+        button {
+            background-color: darkcyan;
+            color: aliceblue;
+            text-transform: uppercase;
+            font-weight: 600w;
+        }
+
+       
+
+       
