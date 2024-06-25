@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Conversor de Moeda</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        input {
+            width: 200px;
+            height: 30px;
+            margin: 5px;
+        }
+        button {
+            width: 150px;
+            height: 30px;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conversor de Moeda</h1>
+    <input type="number" id="amount" placeholder="Valor em USD">
+    <br>
+    <button onclick="convertCurrency()">Converter para BRL</button>
+    <h2 id="converted">Valor em BRL: </h2>
+    <script>
+        function convertCurrency() {
+            const usd = parseFloat(document.getElementById('amount').value);
+            const rate = 5.20; // Taxa de conversão fictícia
+            const brl = usd * rate;
+            document.getElementById('converted').textContent = 'Valor em BRL: ' + brl.toFixed(2);
+        }
+    </script>
+</body>
+</html>
