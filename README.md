@@ -27,15 +27,15 @@ VIDEO DAS DICAS!
 
 Exemplo 1:
 
-Calculadora Simples - [CLIQUE AQUI!]()
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧮</font></font> Calculadora Simples - [CLIQUE AQUI!](https://github.com/acinfo33/lab-natty-or-not/tree/main/exemplos-de-codigos/calculadora-simples)
 
 Exemplo 2:
 
-Conversor de Moeda - [CLIQUE AQUI!]()
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔄</font></font> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤑</font></font> Conversor de Moeda - [CLIQUE AQUI!](https://github.com/acinfo33/lab-natty-or-not/tree/main/exemplos-de-codigos/conversor-de-moeda)
 
 Exemplo 3:
 
-Lista de tarefas - [CLIQUE AQUI!]()
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font> Lista de tarefas - [CLIQUE AQUI!](https://github.com/acinfo33/lab-natty-or-not/tree/main/exemplos-de-codigos/lista-de-tarefas)
 
        
 1. **Para mais conteúdos como este**: , Siga-nos nas redes socias.
@@ -92,16 +92,4 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- 
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
