@@ -21,7 +21,7 @@ Hoje você irá aprender como se tornar um desenvolvedor web Javascript, explora
     4. E não se preocupe em errar, é assim que aprendemos!
   
 VIDEO DAS DICAS!
-[CLIQUE AQUI <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉</font></font> (Como se tornar um desenvolvedor web Javascript)](https://github.com/acinfo33/lab-natty-or-not/blob/main/desenvolvedor-web-javascript%20(1).mp4)
+[CLIQUE AQUI <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉</font></font> (Como se tornar um desenvolvedor web Javascript)](https://github.com/acinfo33/lab-natty-or-not/tree/main/videos)
 
 ## Exemplos de Códigos projetados em JAVASCRIPT
 
@@ -88,8 +88,10 @@ Cite 6 tecnologias necessárias para começar a desenvolver em JavaScript
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![calculadora-simples](https://github.com/acinfo33/lab-natty-or-not/assets/107660534/6ff66e7d-03c3-4d6b-bbf0-4e12a7542295)
+![conversor-de-moeda](https://github.com/acinfo33/lab-natty-or-not/assets/107660534/362871ed-a1b5-4e44-9a50-a6bccbb0d0cf)
+![modelo lista de tarefas](https://github.com/acinfo33/lab-natty-or-not/assets/107660534/d5f2daa4-fd8f-4af3-b7c1-a9a8fe19ebb5)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+
 
