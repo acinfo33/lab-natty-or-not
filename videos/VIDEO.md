@@ -16,7 +16,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "VIDINOZ.AI" foi
 ## 🚀 Resultados
 O vídeo é um exmplo de como se tornar um desenvolvedor web com javascript, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI](https://github.com/acinfo33/lab-natty-or-not/blob/main/desenvolvedor-web-javascript%20(1).mp4)
+[LINK PARA O VÍDEO AQUI](https://github.com/acinfo33/lab-natty-or-not/raw/main/videos/desenvolvedor-web-javascript%20(1).mp4)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
